@@ -1,0 +1,16 @@
+body{
+    background-color:  #5d584a;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.heading h1{
+    color:#a0c3f8 ;
+}
+.myyellow {
+    color: yellow;
+}
+.content h1{
+    color:#afccf7
+}
+*{
+    color: white;
+}
